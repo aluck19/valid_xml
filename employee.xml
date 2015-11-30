@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Employee_Info
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="employee.xsd">
+  <Employee  Employee_Number="0234">
+    <Name>Abhishek Gupta</Name>
+    <Department>QA</Department>
+    <Telephone>9813953967</Telephone>
+    <Email>abhishek.gupta@deerwalk.edu.np</Email>
+  </Employee>
+  <Employee  Employee_Number="0214">
+    <Name>Anil Parajuli</Name>
+    <Department>Database</Department>
+    <Telephone>9876543456</Telephone>
+    <Email>anil.parajuli@deerwalk.edu.np</Email>
+  </Employee>
+</Employee_Info>

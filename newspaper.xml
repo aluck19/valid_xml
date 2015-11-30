@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Abhishek">
+        <HEADLINE>Mobile Monday Kathmandu #momoKTM with a theme “BUSINESS PERSPECTIVE”; Discuss & Share the Business Perspective of Mobile Apps and Startups</HEADLINE>
+        <BYLINE>Abhishek</BYLINE>
+        <LEAD>Techlekh.com</LEAD>
+        <BODY>MobileMonday™ (MoMo) is an open community of mobile industry visionaries, developers and influential individuals fostering brand neutral cooperation and cross-border P2P business opportunities through live networking events to demo products, share ideas and discuss trends from both local and global… </BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Navaraj Kharel" EDITOR="Samun" DATE="11/30/2015" EDITION="55">
+        <HEADLINE>Samsung Electronics Launches its Flagship ‘Samsung Galaxy Note 5’ in Nepal</HEADLINE>
+        <BYLINE>Navaraj Kharel</BYLINE>
+        <LEAD>Techlekh.com</LEAD>
+        <BODY>With all new-design, Samsung has launched “Samsung Galaxy Note 5” in its big screen market, in Nepal. The phone operates on the most popular Android OS, v5.1.1 (Lollipop). The Galaxy Note 5 is boxed with octa core Samsung Exynos Octa 7420… </BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Ankit Pradhan" DATE="11/30/2015">
+        <HEADLINE>Colors Launches ‘Colors X-Factor T50’ in Nepal; Review, Price and Specifications</HEADLINE>
+        <BYLINE>Ankit Pradhan</BYLINE>
+        <LEAD>Techlekh.com</LEAD>
+        <BODY>It is the latest model of mobile that has been launched in Nepal by Teletalk. Pvt. Ltd. which is authorized colors mobile dealers for Nepal. Colors X-Factor T50 is mobile targeted for those customers who want to use better smartphone…</BODY>
+        <NOTES>Article published are correct and verified.</NOTES>
+    </ARTICLE>
+</NEWSPAPER>

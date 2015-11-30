@@ -1,0 +1,46 @@
+<!DOCTYPE collection SYSTEM "recipe.dtd">
+<collection>
+    <description>Abhishek's Recipe</description>
+    <recipe>
+        <title>Kadak Team</title>
+        <ingredient name="milk" amount="1/4"/>
+		<ingredient name="water" amount="1/3"/>
+		<ingredient name="tea leaves" amount="1" unit="tablespoon"/>
+        <ingredient name="sugar" amount="2" unit="tablespoon"/>
+        <ingredient name="alaichi, sukhmel" amount="1/2"/>       
+        <preparation>
+            <step>Pour milk and water in a cooking bowl.</step>
+            <step>Boil it too 104 degree celcius</step>
+            <step>Put alaichin and sukhmel</step>
+            <step>Put sugar andd tea leave</step>
+            <step>Leave it for 2 minutes</step>
+            <step>It is ready now</step>
+            
+        </preparation>
+        <comment>
+            Make sure that everythign goes right
+        </comment>
+        <nutrition calories="300" fat="03" carbohydrates="15" protein="12"/>
+    </recipe>
+    <recipe<recipe>
+        <title>Kadak Team</title>
+        <ingredient name="milk" amount="1/4"/>
+		<ingredient name="water" amount="1/3"/>
+		<ingredient name="tea leaves" amount="1" unit="tablespoon"/>
+        <ingredient name="sugar" amount="2" unit="tablespoon"/>
+        <ingredient name="alaichi, sukhmel" amount="1/2"/>       
+        <preparation>
+            <step>Pour milk and water in a cooking bowl.</step>
+            <step>Boil it too 104 degree celcius</step>
+            <step>Put alaichin and sukhmel</step>
+            <step>Put sugar andd tea leave</step>
+            <step>Leave it for 2 minutes</step>
+            <step>It is ready now</step>
+            
+        </preparation>
+        <comment>
+            Make sure that everythign goes right
+        </comment>
+        <nutrition calories="300" fat="03" carbohydrates="15" protein="12"/>
+    </recipe>
+</collection>
